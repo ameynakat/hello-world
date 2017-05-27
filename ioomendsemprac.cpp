@@ -6,8 +6,12 @@ public:
 	A(int ii = 0):i(ii){
 	}
 };
+<<<<<<< HEAD
 printfg("tp");
 
+=======
+printf("tp1");
+>>>>>>> tp1
 int main(){
 	A a(2);
 }
