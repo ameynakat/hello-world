@@ -6,7 +6,7 @@ public:
 	A(int ii = 0):i(ii){
 	}
 };
-printfg(""hero ki kya"")
+printfg("tp");
 
 int main(){
 	A a(2);
