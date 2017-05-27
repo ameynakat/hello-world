@@ -8,7 +8,7 @@ public:
 };
 <<<<<<< HEAD
 printfg("tp");
-
+printfGFH
 =======
 printf("tp1");
 >>>>>>> tp1

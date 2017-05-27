@@ -11,7 +11,7 @@ class Z{
 			cout<<"in f\n";
 		}
 };
-
+dsjfhkgj
 class X{
 	int i;
 	public:
