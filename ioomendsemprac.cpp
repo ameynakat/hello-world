@@ -6,7 +6,7 @@ public:
 	A(int ii = 0):i(ii){
 	}
 };
-superman
+printf("tp1");
 int main(){
 	A a(2);
 }
